@@ -7,3 +7,4 @@
 --platform=linux/amd64 xhofe/alist
 --platform=linux/amd64 gdy666/lucky
 --platform=linux/amd64 vaultwarden/server
+--platform=linux/amd64 snowdreamtech/frps
