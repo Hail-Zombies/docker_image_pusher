@@ -9,3 +9,4 @@
 --platform=linux/amd64 vaultwarden/server
 --platform=linux/amd64 snowdreamtech/frps
 --platform=linux/amd64 vaultwarden/server
+--platform=linux/amd64 hectorqin/reader
