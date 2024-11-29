@@ -7,9 +7,10 @@
 --platform=linux/amd64 xhofe/alist
 --platform=linux/amd64 gdy666/lucky
 --platform=linux/amd64 snowdreamtech/frps
---platform=linux/amd64 vaultwarden/server
+--platform=linux/amd64 --alias=vaultwarden_server vaultwarden/server
 --platform=linux/amd64 hectorqin/reader
 --platform=linux/amd64 python:3.12.5-alpine3.20
 --platform=linux/amd64 node:20.13.1-alpine
 --platform=linux/amd64 mongo
 --platform=linux/amd64 getsentry/sentry
+--platform=linux/amd64 xubiaolin/zerotier-planet
