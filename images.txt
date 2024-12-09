@@ -14,3 +14,4 @@
 --platform=linux/amd64 mongo
 --platform=linux/amd64 getsentry/sentry
 --platform=linux/amd64 xubiaolin/zerotier-planet
+--platform=linux/amd64 mikolatero/vlmcsd
